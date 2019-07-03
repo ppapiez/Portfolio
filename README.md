@@ -1,7 +1,8 @@
 # Portfolio
 <dl><dd>
   
-Repository containing portfolio of Data Science, Machine Learning, Algorithms projects completed by me for scientific and self learning purposes. 
+Repository containing portfolio of Data Science, Machine Learning, Algorithms projects completed by me for scientific and self learning purposes.
+
 I'm still in the process of describing finished projects and uploading them here.
 
 </dd></dl>
