@@ -1,9 +1,12 @@
 # Portfolio
 
-Repository containing portfolio of data science projects completed by me for scientific and self learning purposes. 
+Repository containing portfolio of Data Science, Machine Learning, Algorithms projects completed by me for scientific and self learning purposes. 
+I'm still in the process of describing finished projects and uploading them here.
+
+
+
 
 ## Data Science | Machine Learning
-
 
 ### Methods Overview
 
@@ -11,20 +14,19 @@ In this section you can find Jupyter Notebooks with overview of different method
 
 #### Data Exploration
 
-
 #### Data Engineering
 
-
 #### Feature Selection
-[Notebook](https://github.com/ppapiez/Portfolio/blob/master/Feature%20selection.ipynb) contains overview of different Feature Selection methods. 
+
+[Notebook](https://github.com/ppapiez/Portfolio/blob/master/Feature%20selection.ipynb) contains overview of different Feature Selection methods:
+* Filter Methods (Pearson’s Correlation, LDA, Anova, Chi-Square, Variance Threshold, Information Gain (Mutual Information)
+* Wrapper Methods (Recursive Feature Elimination (RFE), Boruta)
+* Embedded Methods (Lasso Regression, Ridge Regression, Logistic Regression, Elastic Net, Random Forest, LightGBM, XGBoost, CatBoost)
 
 #### Dimensionality Reduction
 
 
-
 ### Simple Projects
-
-
 
 
 ### Scientific Projects
@@ -33,4 +35,21 @@ In this section you can find Jupyter Notebooks with overview of different method
 
 #### Master Thesis: Comparison of Convolutional Neural Networks and Capsule Neural Networks
 
-![outliar](outliar.jpg)
+
+
+
+## Python programming | Algorithms
+
+
+
+
+
+
+## Applied AI
+
+### Azure
+
+----------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+  <img src="outliar.jpg">
+< /p>
