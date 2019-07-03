@@ -10,7 +10,9 @@ I'm still in the process of describing finished projects and uploading them here
 
 ### Methods Overview
 
+<blockquote>
 In this section you can find Jupyter Notebooks with overview of different methods. They cover some of the most important topics of Machine Learning. You can check the comparison based on my datasets or use the notebooks to pick the right method for your dataset.
+</blockquote>
 
 #### Data Exploration
 
@@ -49,7 +51,7 @@ In this section you can find Jupyter Notebooks with overview of different method
 
 ### Azure
 
-----------------------------------------------------------------------------------------------------------------------------------------
+-----
 <p align="center">
   <img src="outliar.jpg">
 </p>
