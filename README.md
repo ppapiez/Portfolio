@@ -52,4 +52,4 @@ In this section you can find Jupyter Notebooks with overview of different method
 ----------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="outliar.jpg">
-< /p>
+</p>
