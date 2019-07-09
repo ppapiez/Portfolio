@@ -24,7 +24,7 @@ In this section you can find Jupyter Notebooks with overview of different method
 
 <dl><dd>
   
-[Notebook](https://github.com/ppapiez/Portfolio/blob/master/Feature%20selection.ipynb) contains overview of different Feature Selection methods:
+[Notebook](https://nbviewer.jupyter.org/github/ppapiez/Portfolio/blob/master/Feature%20selection.ipynb) contains overview of different Feature Selection methods:
 * Filter Methods (Pearson’s Correlation, LDA, Anova, Chi-Square, Variance Threshold, Information Gain (Mutual Information)
 * Wrapper Methods (Recursive Feature Elimination (RFE), Boruta)
 * Embedded Methods (Lasso Regression, Ridge Regression, Logistic Regression, Elastic Net, Random Forest, LightGBM, XGBoost, CatBoost)
@@ -33,6 +33,11 @@ In this section you can find Jupyter Notebooks with overview of different method
 
 #### Dimensionality Reduction
 
+<dl><dd>
+  
+[Notebook](https://nbviewer.jupyter.org/github/ppapiez/Portfolio/blob/master/Dimensionality%20reduction.ipynb) contains overview of different Dimensionality Reduction methods
+
+</dd></dl>
 
 ### Simple Projects
 
